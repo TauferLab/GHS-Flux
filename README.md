@@ -1,6 +1,6 @@
 # GHS-Flux
 
-This respository contains reproduciability artifacts for our study and rerpoduction of "An analytical performance model of generalized hierarchical scheduling" by Stephen Herbein, Tapasya Patki, Dong H Ahn, Sebastian Mobo, Clark Hathaway, Silvina Caíno-Lores, James Corbett, David Domyancic, Thomas RW Scogland, Bronis R de Supinski, Michela Taufer:
+This respository contains reproduciability artifacts for our study and effort to reproduce the work in "An analytical performance model of generalized hierarchical scheduling" by Stephen Herbein, Tapasya Patki, Dong H Ahn, Sebastian Mobo, Clark Hathaway, Silvina Caíno-Lores, James Corbett, David Domyancic, Thomas RW Scogland, Bronis R de Supinski, Michela Taufer:
  * https://journals.sagepub.com/doi/pdf/10.1177/10943420211051039
 
 Supplemental material made available for reproducation of the original work can be found here:
